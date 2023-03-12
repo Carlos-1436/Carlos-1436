@@ -24,11 +24,9 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div> 
-  
-  ##
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=5000&color=F7F7F7&center=true&repeat=false&width=700&height=70&lines=%F0%9F%93%A9+Fale+comigo!" alt="Typing SVG" /></a>
+  <h2>📩 Fale comigo!</h2>
 </div>
 
 > Gostaria de entrar em contato? Aqui está uma lista das principais formas de me contatar!
