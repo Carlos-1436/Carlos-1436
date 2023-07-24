@@ -6,9 +6,6 @@
  ## 
 <div align="center">
   <a href="https://github.com/carlos-1436">
-    <img src="https://github-readme-stats.vercel.app/api?username=carlos-1436&show_icons=true&theme=dracula&count_private=true&hide_title=true" />
-  </a>
-  <a href="https://github.com/carlos-1436">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-1436&theme=dracula&layout=compact" />
   </a>
 </div>
