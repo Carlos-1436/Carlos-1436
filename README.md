@@ -31,4 +31,4 @@
 
 > Gostaria de entrar em contato? Aqui está uma lista das principais formas de me contatar!
 - **E-Mail:** carloshenriquebatista230@gmail.com
-- **Discord:** `Zeike Dev#7573`
+- **Discord:** `@zeikedev`
