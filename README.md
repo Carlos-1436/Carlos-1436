@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Play&pause=5000&color=F7F7F7&center=true&width=600&height=70&lines=%F0%9F%91%8B+Ol%C3%A1%2C+seja+muito+bem-vindo!;%E2%9D%A4%EF%B8%8F+Abaixo+haver%C3%A1+uma+simples+apresenta%C3%A7%C3%A3o+sobre+mim!" alt="Typing SVG" /></a>
 </div>
 
-> Meu nome é Carlos Henrique, sou um desenvolvedor com foco em back-end que atualmente está focando nos estudos em tecnologia e se apaixonando também por front-end. Aqui é onde posto meus projetos pessoais relacionados a desenvolvimento de software. Possuo como linguagem de programação principal o Typescript, porém tenho conhecimentos em outras linguagens e estou recentemente estudando mais tecnologias.
+> Meu nome é Carlos Henrique, sou um desenvolvedor com foco em back-end que atualmente está focando nos estudos e se apaixonando por front-end. Aqui é onde posto meus projetos pessoais relacionados a desenvolvimento de software. Possuo como linguagem de programação principal o Typescript, porém tenho conhecimentos em outras linguagens.
  ## 
 <div align="center">
   <a href="https://github.com/carlos-1436">
